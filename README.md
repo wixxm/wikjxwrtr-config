@@ -5,7 +5,10 @@
 
 git clone https://github.com/wixxm/wikjxwrtr-config openwrt/wikjx
 
+```  
+
 ## ✨ 替换地址  ✨
+
 
 Config-images.in  /home/wixxm/openwrt/config
 banner  /home/wixxm/openwrt/package/base-files/files/etc
