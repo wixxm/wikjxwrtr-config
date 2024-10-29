@@ -11,7 +11,12 @@ git clone https://github.com/wixxm/wikjxwrtr-config openwrt/wikjx
 
 
 Config-images.in  /home/wixxm/openwrt/config
+
 banner  /home/wixxm/openwrt/package/base-files/files/etc
+
 config_generate  /home/wixxm/openwrt/package/base-files/files/bin
+
 feeds.conf.default  /home/wixxm/openwrt
+
 version.mk  /home/wixxm/openwrt/include 
+
