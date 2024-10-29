@@ -3,7 +3,7 @@
 ## ✨ 食用方法  ✨
 ```  
 
-git clone https://github.com/wixxm/wikjxwrtr-config openwrt/wikjx
+git clone https://github.com/wixxm/wikjxwrtr-config wikjx
 
 ```  
 
