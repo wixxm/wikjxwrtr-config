@@ -20,3 +20,4 @@ feeds.conf.default  /home/wixxm/openwrt
 
 version.mk  /home/wixxm/openwrt/include 
 
+sysinfo.sh  /home/wixxm/openwrt/feeds/packages/utils/bash/files/etc/profile.d
