@@ -10,14 +10,14 @@ git clone https://github.com/wixxm/wikjxwrtr-config wikjx
 ## ✨ 替换地址  ✨
 
 
-Config-images.in  /home/wixxm/openwrt/config
+Config-images.in  🌈 /home/wixxm/openwrt/config
 
-banner  /home/wixxm/openwrt/package/base-files/files/etc
+banner 🌈 /home/wixxm/openwrt/package/base-files/files/etc
 
-config_generate  /home/wixxm/openwrt/package/base-files/files/bin
+config_generate 🌈 /home/wixxm/openwrt/package/base-files/files/bin
 
-feeds.conf.default  /home/wixxm/openwrt
+feeds.conf.default 🌈 /home/wixxm/openwrt
 
-version.mk  /home/wixxm/openwrt/include 
+version.mk 🌈 /home/wixxm/openwrt/include 
 
-sysinfo.sh  /home/wixxm/openwrt/feeds/packages/utils/bash/files/etc/profile.d
+sysinfo.sh 🌈 /home/wixxm/openwrt/feeds/packages/utils/bash/files/etc/profile.d
