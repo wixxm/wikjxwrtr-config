@@ -64,7 +64,7 @@ cpu_cores=$(grep -c processor /proc/cpuinfo)
 coremark_file="/etc/bench.log"
 if [ -f "$coremark_file" ]; then
     coremark_score=$(grep "CpuMark" "$coremark_file" | awk -F: '{print $2}' | awk '{print $1}')
-    coremark_score="${coremark_score:-请等待}"
+    coremark_score="${coremark_score:-未运行请等待}"
 else
     coremark_score="未运行       "
 fi
